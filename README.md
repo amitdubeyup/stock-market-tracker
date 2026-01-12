@@ -1,7 +1,5 @@
 # Stock Tracker Webapp
 
-
-
 ## 📝 About The Project
 Interactive financial dashboard for tracking stock portfolios with real-time price updates and data visualization.
 
@@ -11,9 +9,6 @@ Interactive financial dashboard for tracking stock portfolios with real-time pri
 
 ## 🛠️ Tech Stack
 *   **HTML5/CSS3**
-
-## 👨‍💻 Lead Maintainer
-[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📦 Installation
 
@@ -29,6 +24,9 @@ Interactive financial dashboard for tracking stock portfolios with real-time pri
     ```bash
     npm start    # or python app.py
     ```
+
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📄 License
 This project is licensed under the **MIT License**.
